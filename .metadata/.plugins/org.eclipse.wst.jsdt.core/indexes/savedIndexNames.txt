@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\LTWeb\BaiTapJPA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+90078320.index
+2924040077.index
+4266182524.index
+3797547967.index
+1953669670.index
+1576565032.index
+3150004618.index

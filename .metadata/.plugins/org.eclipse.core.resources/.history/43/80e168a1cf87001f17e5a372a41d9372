@@ -1,0 +1,7 @@
+package vn.iotstar.service.impl;
+
+import vn.iotstar.service.ICategoryService;
+
+public class CategoryServiceImpl implements  ICategoryService{
+
+}

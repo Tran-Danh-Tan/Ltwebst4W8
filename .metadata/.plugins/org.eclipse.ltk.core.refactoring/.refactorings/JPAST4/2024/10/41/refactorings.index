@@ -1,0 +1,19 @@
+1728649023769	Delete element
+1728649096017	Move compilation unit
+1728650840516	Pull up members to 'ICategoryDao'
+1728650912109	Rename type 'CategoryDao'
+1728650992728	Rename type 'CategoryService'
+1728654181445	Rename package 'vn.iotstar.service'
+1728654265666	Rename package 'vn.iotstar.controller.admin'
+1728654399914	Delete element
+1728654495462	Move compilation unit
+1728654498794	Delete element
+1728654513208	Move compilation unit
+1728654526069	Rename type 'CategoryServiceImpl'
+1728654542358	Rename type 'CategoryDaoimpl'
+1728654909195	Delete element
+1728657674144	Move compilation unit
+1728657677358	Delete element
+1728722768218	Delete element
+1728722806960	Rename resource 'video-update.jsp'
+1728784533972	Delete element

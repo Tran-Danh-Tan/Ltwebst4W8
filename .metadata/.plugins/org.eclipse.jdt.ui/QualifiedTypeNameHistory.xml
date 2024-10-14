@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.TypedQuery"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="vn.iotstar.service.ICategoryService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.impl.CategoryDaoimpl"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.IVideoDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.impl.VideoDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.IVideoService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.impl.VideoService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.utils.Constant"/>
+    <fullyQualifiedTypeName name="com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.Part"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Query"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.ICategoryService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.impl.CategoryService"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
+    <fullyQualifiedTypeName name="vn.iotstar.entity.Category"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.IUserDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.impl.UserDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.IUserService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.services.impl.UserService"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.ICategoryDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.dao.impl.CategoryDao"/>
+    <fullyQualifiedTypeName name="vn.iotstar.entity.Video"/>
+    <fullyQualifiedTypeName name="vn.iotstar.entity.User"/>
+</qualifiedTypeNameHistroy>

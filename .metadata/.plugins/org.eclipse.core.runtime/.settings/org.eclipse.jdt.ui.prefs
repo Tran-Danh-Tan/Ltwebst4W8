@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="vn.iotstar.dao.ICategoryDao"><rhs name\="vn.iotstar.dao.impl.CategoryDaoimpl"/><rhs name\="vn.iotstar.dao.impl.CategoryDao"/></lhs><lhs name\="vn.iotstar.dao.IVideoDao"><rhs name\="vn.iotstar.dao.impl.VideoDao"/></lhs><lhs name\="vn.iotstar.services.IVideoService"><rhs name\="vn.iotstar.services.impl.VideoService"/></lhs><lhs name\="vn.iotstar.services.ICategoryService"><rhs name\="vn.iotstar.services.impl.CategoryService"/></lhs><lhs name\="vn.iotstar.dao.IUserDao"><rhs name\="vn.iotstar.dao.impl.UserDao"/></lhs><lhs name\="vn.iotstar.services.IUserService"><rhs name\="vn.iotstar.services.impl.UserService"/></lhs><lhs name\="vn.iotstar.entity.User"><rhs name\="vn.iotstar.entity.User"/></lhs></history>
+content_assist_number_of_computers=14
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

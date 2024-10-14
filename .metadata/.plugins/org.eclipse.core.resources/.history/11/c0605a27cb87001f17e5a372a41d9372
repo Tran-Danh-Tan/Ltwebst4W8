@@ -1,0 +1,7 @@
+package vn.iotstar.dao.impl;
+
+import vn.iotstar.dao.ICategoryDao;
+
+public class CategoryDao implements ICategoryDao{
+
+}

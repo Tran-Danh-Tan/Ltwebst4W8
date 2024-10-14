@@ -1,0 +1,58 @@
+package vn.iotstar.services.impl;
+
+import java.util.List;
+
+import vn.iotstar.entity.Video;
+import vn.iotstar.services.IVideoService;
+
+public class VideoService implements IVideoService{
+
+	@Override
+	public int count() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public List<Video> findAll(int page, int pagesize) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Video> findByTitle(String videotitle) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Video> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Video findById(int videoid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void delete(int videoid) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void update(Video video) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void insert(Video video) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
